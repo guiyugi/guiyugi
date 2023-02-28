@@ -1,5 +1,5 @@
 ### Oi, eu sou o Gui.
-🌱 -  I'm currently learning about web.
+🌱 -  I'm trying to do better everyday, learnign about python and web development.
 
 📚 - Computer Science student - UESPI.
 
