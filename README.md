@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/guiyugi)
 
 ## About me:
-Eu sou um estudante de Ciência da Computação
+Eu sou um estudante de Ciência da Computação - UESPI Parnaíba.
 
 Eu sou aficcionado em sempre estudar e adquirir conhecimento, sempre que possível estou estudando sobre algo novo...
 
