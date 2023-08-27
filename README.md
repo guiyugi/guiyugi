@@ -4,7 +4,7 @@
 ## About me:
 Eu sou um estudante de Ciência da Computação
 
-Eu sou aficcionado em sempre estudar e adquirir conhecimento de diversos campos, sempre que possível estou estudando sobre algo novo para mim...
+Eu sou aficcionado em sempre estudar e adquirir conhecimento, sempre que possível estou estudando sobre algo novo...
 
 ## Now learning: 
 ### 
