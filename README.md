@@ -26,4 +26,4 @@ Eu sou aficcionado em sempre estudar e adquirir conhecimento, sempre que possív
 ## Sempre tentando ser melhor...
 
 ### Contatos
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yugi.gui)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/guiyugi).
